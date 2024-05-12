@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Prueba\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\LENOVO\Desktop\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\LENOVO\Desktop\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\LENOVO\Desktop\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\LENOVO\Desktop\Prueba\Prueba\obj\Debug\Prueba.pdb
